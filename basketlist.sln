@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basketlist", "basketlist\basketlist.csproj", "{638FB526-B712-4714-BA97-93D7382C856B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{638FB526-B712-4714-BA97-93D7382C856B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{638FB526-B712-4714-BA97-93D7382C856B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{638FB526-B712-4714-BA97-93D7382C856B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{638FB526-B712-4714-BA97-93D7382C856B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9B64494-B760-43C7-88E5-9C1A3F458487}
+	EndGlobalSection
+EndGlobal
